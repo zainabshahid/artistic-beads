@@ -1,0 +1,25 @@
+
+.menu li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 0px 30px;
+    line-height: 108px;<
+    background-color: #ffaec9;
+    color: #a84da4;
+    margin-right: -4px;
+}
+.menu li:hover{
+	background-color:#ff008d;
+	color: #ffffff;
+}
+.menu li a {
+	color: #a84da4;
+}
+.menu li a:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+.menu {
+	margin-bottom: 0px;
+    text-align: right;	
+}
